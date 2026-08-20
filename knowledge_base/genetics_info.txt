@@ -1,0 +1,4 @@
+A splice junction is a critical boundary in a DNA sequence. It marks the point where coding regions (exons) and non-coding regions (introns) meet. 
+The Exon-Intron (EI) junction is often called the "donor" site, and it frequently contains the nucleotide sequence 'GT'. 
+The Intron-Exon (IE) junction is often called the "acceptor" site, and it frequently contains the nucleotide sequence 'AG'.
+Identifying splice junctions is essential for understanding how genes are expressed and how genetic mutations can lead to diseases like cancer.
